@@ -1,7 +1,12 @@
 
 # Springboot Login REST API
 
-Springboot Login RESTAPI server implementing jsonwebtoken
+Springboot Login RESTAPI server implementing jsonwebtoken  
+
+Liberica-17 17.0.6  
+Java 17  
+Maven  
+Spring Web  
 
 
 ## Run Locally
