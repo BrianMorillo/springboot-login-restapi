@@ -39,7 +39,7 @@ http://localhost:8080/api/auth/login
 }
 ```
 
-Succesful response with jwt generated access token
+Successful response with jwt generated access token
 ```bash
 {
     "message": "Login successful",
